@@ -1,0 +1,3 @@
+[submodule "taproot-assets"]
+	path = taproot-assets
+	url = https://github.com/lightninglabs/taproot-assets.git
